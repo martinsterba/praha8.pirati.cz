@@ -1,6 +1,6 @@
 ---
 uid: ondrej.moravcick
-name: Ondřej Morovčík
+name: Ondřej Moravčík
 titles:
   before: 
 category:  
