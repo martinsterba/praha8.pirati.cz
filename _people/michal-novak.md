@@ -6,7 +6,7 @@ titles:
 category: 
   - pms
 img: people/michal-novak.jpg 
-description: zastupitel, místopředseda 
+description: předseda zaastupitského klubu, místopředseda 
 ordpms: 4
 mail: 
   - michal.novak@pirati.cz
